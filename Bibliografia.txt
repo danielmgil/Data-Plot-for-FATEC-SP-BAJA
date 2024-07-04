@@ -1,4 +1,4 @@
-Link's used as base to study.
+Link's used as base to study:
 
 
 https://matplotlib.org (Official site of the matplotlib library)
