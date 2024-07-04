@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=D4VlmL3G4_o&t=38s (Quickstart to matplotlib (EN-
 https://www.youtube.com/watch?v=QLACZgfUAhY&list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6 (Basics of matplotlib (PT-BR))
 
 https://www.youtube.com/watch?v=g_R_Asf6Co0 (Basics of Python (PT-BR))
+
+https://www.youtube.com/watch?v=Zn9cGfSsssI (Text Manipulation in Python (PT-BR))
