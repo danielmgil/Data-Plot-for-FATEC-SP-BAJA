@@ -1,7 +1,7 @@
 Link's used as base to study:
 
 
-https://matplotlib.org (Official site of the matplotlib library)
+https://matplotlib.org (Official website of the matplotlib library)
 
 https://www.youtube.com/watch?v=ix6GApz9qBk (Real time update of the graphs using matplotlib (PT-BR))
 
