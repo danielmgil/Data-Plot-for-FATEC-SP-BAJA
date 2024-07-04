@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=QLACZgfUAhY&list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zen
 https://www.youtube.com/watch?v=g_R_Asf6Co0 (Basics of Python (PT-BR))
 
 https://www.youtube.com/watch?v=Zn9cGfSsssI (Text Manipulation in Python (PT-BR))
+
+https://www.youtube.com/watch?v=nF-t3VS-Du0 (Inputs and lists in Python (PT-BR))
