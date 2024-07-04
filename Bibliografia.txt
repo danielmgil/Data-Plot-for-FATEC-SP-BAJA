@@ -1,12 +1,12 @@
 Link's used as base to study.
 
 
-https://matplotlib.org
+https://matplotlib.org (Official site of the matplotlib library)
 
-https://www.youtube.com/watch?v=ix6GApz9qBk
+https://www.youtube.com/watch?v=ix6GApz9qBk (Real time update of the graphs using matplotlib (PT-BR))
 
-https://www.youtube.com/watch?v=D4VlmL3G4_o&t=38s
+https://www.youtube.com/watch?v=D4VlmL3G4_o&t=38s (Quickstart to matplotlib (EN-EUA)
 
-https://www.youtube.com/watch?v=QLACZgfUAhY&list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6
+https://www.youtube.com/watch?v=QLACZgfUAhY&list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6 (Basics of matplotlib (PT-BR))
 
-https://www.youtube.com/watch?v=g_R_Asf6Co0
+https://www.youtube.com/watch?v=g_R_Asf6Co0 (Basics of Python (PT-BR))
