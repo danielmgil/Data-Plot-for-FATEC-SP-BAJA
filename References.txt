@@ -16,5 +16,3 @@ https://www.youtube.com/watch?v=Zn9cGfSsssI (Text Manipulation in Python (PT-BR)
 https://www.youtube.com/watch?v=nF-t3VS-Du0 (Inputs and lists in Python (PT-BR))
 
 https://www.youtube.com/watch?v=fYEQ1hH87Io (Dictionarys and Data Structure in Python (PT-BR))
-
-https://www.youtube.com/watch?v=cUXG6H3OhRQ (Real time localization in Python (PT-BR))
