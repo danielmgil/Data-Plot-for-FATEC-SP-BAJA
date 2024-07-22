@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=Zn9cGfSsssI (Text Manipulation in Python (PT-BR)
 https://www.youtube.com/watch?v=nF-t3VS-Du0 (Inputs and lists in Python (PT-BR))
 
 https://www.youtube.com/watch?v=fYEQ1hH87Io (Dictionarys and Data Structure in Python (PT-BR))
+
+https://www.youtube.com/watch?v=-a0ys8wpv_0 (Variable conversion in Python (PT_BR))
